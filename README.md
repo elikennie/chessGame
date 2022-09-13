@@ -1,5 +1,5 @@
 # chessGame
-a chess game against an ai created for CS 2210
+a chess game against a bot created for my university course
   
 requires arguments to be input in order to run, accepts arguments as:
   
